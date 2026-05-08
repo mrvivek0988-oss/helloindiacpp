@@ -5,7 +5,7 @@
 //int main()
 //{
 //	int a,b,sum;
-//	cin >>a>>b;
+//	cin >>a>>b;//
 //	sum=a+b;
 //	cout<<"the sum of "<< a <<" and "<< b <<" is "<<sum;
 //	double avg= (a+b)/2.0;
