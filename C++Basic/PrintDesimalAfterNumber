@@ -1,0 +1,11 @@
+//#include<iostream>
+//using namespace std;
+//#include<iomanip>
+//int main()
+//{
+//	float b=1000.0;
+//	//cin>>b;
+//	cout<<fixed<<setprecision(2)<<b;
+//	return 0;
+//	
+//}
